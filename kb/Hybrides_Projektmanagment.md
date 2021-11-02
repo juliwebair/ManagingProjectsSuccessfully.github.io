@@ -2,7 +2,7 @@
 title: Hybrides_Projektmanagment
 tags: agil klassisch
 author: juliwebair
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Hybrides_Projektmanagment um ein erstes Verständnis dafür zu schaffen um was es hier geht.
